@@ -1,0 +1,13 @@
+.card{
+    background-color: antiquewhite;
+    padding: 30px 30px;
+
+}
+
+.card-body{
+    height: 200px;
+}
+
+body{
+    background-color: lightblue;
+}
